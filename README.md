@@ -2,4 +2,4 @@ To use the script, you can copy your prompt to your clip board, then press Ctrl+
 You can also customize your api, proxy url, and the name of the model.
 For the input part it uses a input dll from:
 https://github.com/bukepro/buke_km_lib/tree/master by https://github.com/bukepro
-to make sure this will work under all conditions.
+to make sure this will work under most conditions.
